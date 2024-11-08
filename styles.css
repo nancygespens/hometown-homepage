@@ -9,8 +9,7 @@ body {
     background-position: center;
 }
 
-/* HERO */
-
+/* HERO section styling */
 .hero-info {
     display: flex;
     margin: auto;
@@ -25,13 +24,12 @@ body {
     height: auto;
 }
 
-
-/* ACTIV */
+/* ACTIVITIES section styling */
 #activities {
     background-image: url(img/texture.svg);
     background-size: cover;
     background-position: center;
-    background-color:#3F66BA;
+    background-color: #3F66BA;
 }
 
 .act-info {
@@ -44,6 +42,7 @@ body {
     padding-bottom: 30px;
 }
 
+/* Places section to align top attractions */
 .places {
     display: flex;
     max-width: 960px;
@@ -53,13 +52,14 @@ body {
     align-items: start;
 }
 
-.icon {
-    width: 100px;
-    height:auto;
+/* Updated icon class to be more specific for activities */
+.activity-icon {
+    width: 120px; /* Increased from 100px */
+    height: auto;
     border-radius: 50%;
 }
 
-/* GUIDE */
+/* GUIDE section styling */
 #guide {
     display: flex;
     justify-content: center;
