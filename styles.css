@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: auto;
+    margin: 0 auto;
+    padding: 0;
     font-family: "Montserrat", sans-serif;
     font-size: 12px;
     background-image: url(img/texture.svg);
@@ -11,18 +11,29 @@ body {
 
 /* HERO section styling */
 .hero-info {
-    display: flex;
-    margin: auto;
-    padding: 30px 0 50px 30px;
-    align-items: center;
-    gap: 30px;
+    margin: 0 auto;
+    padding:15px 50px;
     max-width: 900px;
+    background-image: url(img/hero/3576696.png);
+    background-repeat: no-repeat;
+    background-size: 850px;
+    background-position: 20px top;
+    height: 633px;
+    text-align: left;
 }
 
-.hero-img {
-    width: 450px;
-    height: auto;
+h1 {
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
 }
+
+#subTitle {
+    margin: 0;
+    font-size: 18px;
+}
+
+
 
 /* ACTIVITIES section styling */
 #activities {
