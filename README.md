@@ -1,6 +1,8 @@
 # Hometown Homepage
 
-<img width="1682" alt="Hometown-Homepage-11-08-2024_11_37_AM" src="https://github.com/user-attachments/assets/3c8dbb86-5a6e-4c82-80ec-f7b49a1ab38a">
+[![Demo](https://github.com/user-attachments/assets/14e66167-9e96-4eee-b8c2-93b97a827425)](https://candid-phoenix-4f5aa4.netlify.app/)
+
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 
 ## Description
